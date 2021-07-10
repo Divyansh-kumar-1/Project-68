@@ -1,0 +1,15 @@
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#School_Name{
+    background: linear-gradient(#F7FFD1,#A4EBAA);
+}
+.Container{
+   text-align: center;
+}
+#Contacts{
+    background: linear-gradient(#BCEAEB,#D9FC79,#EBBFA4);
+}
